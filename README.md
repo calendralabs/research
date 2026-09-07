@@ -7,10 +7,8 @@ Independent security research. Focused on AI safety, email threat detection, and
 - General: contact@calendralabs.com
 - Security disclosures: security@calendralabs.com
 - Research inquiries: research@calendralabs.com
-- Press: info@calendralabs.com
 - Developers: dev@calendralabs.com
 - Support: support@calendralabs.com
-- Jobs: jobs@calendralabs.com
 
 ## Responsible Disclosure
 
